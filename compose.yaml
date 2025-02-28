@@ -1,0 +1,6 @@
+﻿services:
+  aichatbot:
+    image: aichatbot
+    build:
+      context: .
+      dockerfile: AIChatBot/Dockerfile
