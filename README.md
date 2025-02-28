@@ -35,7 +35,7 @@ This capability is particularly useful for:
 ## 🔧 Setup Instructions
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/your-repo.git](https://github.com/pouya-heydarabadi/ObjectDetection-Service)
+git clone (https://github.com/pouya-heydarabadi/ObjectDetection-Service)
 cd your-repo
 ```
 
